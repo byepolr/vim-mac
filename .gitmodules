@@ -1,30 +1,30 @@
-[submodule "/Users/jasonjones/.vim/bundle/YouCompleteMe"]
-	path = ~/.vim/bundle/YouCompleteMe
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
 	url = git@github.com:Valloric/YouCompleteMe.git
-[submodule "/Users/jasonjones/.vim/bundle/tern_for_vim"]
-	path = ~/.vim/bundle/tern_for_vim
+[submodule "bundle/tern_for_vim"]
+	path = bundle/tern_for_vim
 	url = git@github.com:marijnh/tern_for_vim.git
-[submodule "/Users/jasonjones/.vim/bundle/nerdtree"]
-	path = ~/.vim/bundle/nerdtree
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
-[submodule "/Users/jasonjones/.vim/bundle/ctrlp"]
-	path = ~/.vim/bundle/ctrlp
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
 	url = git@github.com:kien/ctrlp.vim.git
-[submodule "/Users/jasonjones/.vim/bundle/fugitive"]
-	path = ~/.vim/bundle/fugitive
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
 	url = git@github.com:tpope/vim-fugitive.git
-[submodule "/Users/jasonjones/.vim/bundle/syntastic"]
-	path = ~/.vim/bundle/syntastic
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
 	url = git@github.com:scrooloose/syntastic.git
-[submodule "/Users/jasonjones/.vim/bundle/jshint"]
-	path = ~/.vim/bundle/jshint
+[submodule "bundle/jshint"]
+	path = bundle/jshint
 	url = git@github.com:wookiehangover/jshint.vim.git
-[submodule "/Users/jasonjones/.vim/bundle/vim-node"]
-	path = ~/.vim/bundle/vim-node
+[submodule "bundle/vim-node"]
+	path = bundle/vim-node
 	url = git@github.com:moll/vim-node.git
-[submodule "/Users/jasonjones/.vim/bundle/vim-ruby"]
-	path = ~/.vim/bundle/vim-ruby
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
 	url = git@github.com:tpope/vim-rails.git
-[submodule "/Users/jasonjones/.vim/bundle/vim-airline"]
-	path = /Users/jasonjones/.vim/bundle/vim-airline
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
 	url = git@github.com:bling/vim-airline.git
