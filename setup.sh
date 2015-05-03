@@ -11,3 +11,4 @@ cd ~/.vim/bundle/YouCompleteMe
 ./install.sh --clang-completer
 cd ~/.vim/bundle/tern_for_vim
 sudo npm install
+sudo npm install -g vimdebug

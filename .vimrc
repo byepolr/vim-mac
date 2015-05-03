@@ -13,6 +13,7 @@ set incsearch
 set number
 set smartindent
 set tabstop=2 shiftwidth=2 expandtab
+set whichwrap+=<,>,[,]
 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#fnamemod = ':t'
