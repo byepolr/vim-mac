@@ -25,3 +25,6 @@
 [submodule "/Users/jasonjones/.vim/bundle/vim-ruby"]
 	path = ~/.vim/bundle/vim-ruby
 	url = git@github.com:tpope/vim-rails.git
+[submodule "/Users/jasonjones/.vim/bundle/vim-airline"]
+	path = /Users/jasonjones/.vim/bundle/vim-airline
+	url = git@github.com:bling/vim-airline.git
