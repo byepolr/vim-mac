@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo echo "This script needs sudo rights to complete this task..."
 cd ~/
-git clone git@github.com:byepolr/vim-mac.git
+git clone git@github.com:byepolr/vim-setup.git
 rm -rf .vim
 mv ~/vim-mac/ ~/.vim
 cd ~/.vim
