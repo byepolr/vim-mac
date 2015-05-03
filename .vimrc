@@ -11,6 +11,7 @@ set hlsearch
 set ignorecase
 set incsearch
 set number
+set smartindent
 set tabstop=2 shiftwidth=2 expandtab
 
 let g:airline#extensions#tabline#enabled = 1
