@@ -4,6 +4,7 @@ filetype plugin indent on
 
 set background=dark
 set backspace=indent,eol,start
+set clipboard^=autoselect
 set expandtab
 set mouse=a
 set hlsearch
