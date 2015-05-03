@@ -1,3 +1,4 @@
 #Setup and configure VIM
-    wget -qO- http://agilemoose.com/vim-setup.sh | sh
-    curl http://agilemoose.com/vim-setup.sh | sh
+    wget -qO- https://github.com/byepolr/vim-mac/blob/master/setup.sh | sh
+or
+    curl https://github.com/byepolr/vim-mac/blob/master/setup.sh | sh
